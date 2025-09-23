@@ -11,8 +11,7 @@ This project demonstrates how to price a **European call option** using **Monte 
   - **Delta**: Sensitivity of the call price to small changes in stock price.
   - **Vega**: Sensitivity of the call price to changes in volatility.
   - **Theta**: Sensitivity of the call price to the passage of time.
-- **Visualisations**: Histograms and line plots for all analyses.
-- **Well-commented code**: Easy to follow and understand.
+- **Visualisations**: Line plots for all analyses.
 
 ## Skills Demonstrated
 
