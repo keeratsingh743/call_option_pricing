@@ -18,7 +18,7 @@ This project demonstrates how to price a **European call option** using **Monte 
 - Numerical simulation (**Monte Carlo**)  
 - Financial engineering concepts (European call options, payoffs, Greeks)  
 - Closed-form solutions (**Black–Scholes formula**)  
-- Data analysis and visualisation (**numpy, pandas, matplotlib, scipy**)  
+- Visualisation (**numpy, pandas, matplotlib, scipy**)  
 - Clean, organised Python coding
 
 ## Requirements
