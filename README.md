@@ -11,7 +11,7 @@ This project demonstrates how to price a **European call option** using **Monte 
   - **Delta**: Sensitivity of the call price to small changes in stock price.
   - **Vega**: Sensitivity of the call price to changes in volatility.
   - **Theta**: Sensitivity of the call price to the passage of time.
-- **Visualisations**: Line plots for all analyses.
+- **Visualisations**: Line plots for analyses.
 
 ## Skills Demonstrated
 
@@ -23,12 +23,3 @@ This project demonstrates how to price a **European call option** using **Monte 
 
 ## Requirements
 
-- Python 3.8+  
-- numpy  
-- pandas  
-- matplotlib  
-- scipy  
-
-Install dependencies with:  
-```bash
-pip install -r requirements.txt
