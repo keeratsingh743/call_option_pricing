@@ -21,5 +21,13 @@ This project demonstrates how to price a **European call option** using **Monte 
 - Visualisation (**numpy, pandas, matplotlib, scipy**)  
 - Clean, organised Python coding
 
-## Requirements
+## How to run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/project-name.git
+   cd project-name
+
+2. Install required libraries:
+   pip install numpy pandas scipy matplotlib
 
