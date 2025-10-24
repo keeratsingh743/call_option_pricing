@@ -23,11 +23,8 @@ This project demonstrates how to price a **European call option** using **Monte 
 
 ## How to run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/project-name.git
-   cd project-name
-
+1. Clone this repository
 2. Install required libraries:
    pip install numpy pandas scipy matplotlib
+3. Open and run jupyter notebook
 
